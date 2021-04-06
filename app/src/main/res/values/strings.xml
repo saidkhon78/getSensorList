@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">getSensorList</string>
+    <string name="sensors_installed">Sensors installed</string>
 </resources>
